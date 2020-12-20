@@ -1,6 +1,8 @@
-### Hi there 👋.
-#### I am designer and developer
 
+<div align="center">
+  <h1 ><b>Hi there! 👋 </b></h1>
+  <p>I am designer and developer</p>
+</div>
 ![fathaGitBanner-01-01-01](https://user-images.githubusercontent.com/54309710/102718127-cd58eb00-42e6-11eb-9640-9b357ed2ed63.png)
 
 
