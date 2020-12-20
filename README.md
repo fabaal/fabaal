@@ -12,13 +12,7 @@ I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardwork
      <tr>
     <td valign="top" width="33%">
       <h3>Frontend</h3>
-      <img src='https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667' alt='html5' height='40' >
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'color='red'>
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40' >
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
-<img src='https://camo.githubusercontent.com/3523bd4e344ec5909336e3891b7511da62905e8953381f6fa69c11983e8fd9f6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667' alt='bootstrap' height='40'>
-      <img src='https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667' alt='css' height='40'>
-      <img src='https://camo.githubusercontent.com/4629b90b2cfb38cc37a512b6b1fb6a8cb51d303cde9aebb07f91dc5e6c276033/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f776f726470726573732e706e67' alt='bootstrap' height='40'>
+
    
     </td>
      <td valign="top" width="33%">
