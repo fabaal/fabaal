@@ -10,11 +10,15 @@ I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardwork
 <table>
   <tbody>
      <tr>
-    <td>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
     </td>
-     <td>
+     <td valign="top" width="33%">
+        <h3>Backend</h3>
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
     </td>
