@@ -45,16 +45,8 @@ I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardwork
   </tbody>
 </table>
 
-<table>
-  <tbody>
-    <tr>
-      <td valign="top" width="100%">
-        <h2>Github Staats</h2>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fabaal)](https://github.com/anuraghazra/github-readme-stats)
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 
 
 
