@@ -39,7 +39,7 @@ I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardwork
   <tbody>
     <tr>
       <td valign="top" width="100%">
-        <h2>Connect with me!</h2> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/farhiyaaaa//) 
+        <h2>Connect with me!</h2> <a href='https://github.com/https://github.com/fabaal'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> <a href='https://www.linkedin.com/in/https://www.linkedin.com/in/farhiyaaaa//'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a> 
       </td>
     </tr>
   </tbody>
