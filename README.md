@@ -8,7 +8,7 @@ I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardwork
 
 ## Skills and Experience 
 * React 
-* https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg
+* [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">]
 * https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg
 
 REACT / JS / HTML / CSS
