@@ -36,9 +36,7 @@ I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardwork
  <div align='center'>
         <h2>Connect with me!</h2> <a href='https://github.com/fabaal'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> <a href='https://www.linkedin.com/in/farhiyaaaa//'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a> 
         </div>
-<div align='center>
-<h2>Github Stats</h2>
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=fabaal' alt='gitStats' ></a>
+<div align='center> <h2>Github Stats</h2> <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=fabaal' alt='gitStats' ></a>
 </div>
 
 
