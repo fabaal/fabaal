@@ -1,7 +1,7 @@
 ### Hi there 👋.
 #### I am designer and developer
 
-![fathaGitBanner-01-01](https://user-images.githubusercontent.com/54309710/102717932-a3eb8f80-42e5-11eb-9964-61f984b3bb47.png)
+![fathaGitBanner-01-01-01](https://user-images.githubusercontent.com/54309710/102718127-cd58eb00-42e6-11eb-9640-9b357ed2ed63.png)
 
 
 I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardworking developer that loves to play with Frontend as well as Backend. I have experience in designing, implementation and optimisation of existing and newer systems.
