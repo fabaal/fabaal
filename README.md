@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/54309710/102725300-0d839200-4316-11eb-82dc-89e1363ada57.png" alt="banner">
 </div>
-<p align="center">I am a Full Stack Developer and graphic designer, that loves to create, and to be creative. 
+<p align="center">I am a Full Stack developer and graphic designer, that loves to create, and to be creative. 
    I have experience in designing, implementation and optimisation of existing and newer systems. </p>
 ## Skills and Experience 
 <table>
