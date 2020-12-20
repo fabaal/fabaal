@@ -6,10 +6,4 @@ I’m a Full Stack Developer and graphic designer. I’am a hardworking develope
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/fabaal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/farhiyaaaa//)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/fabaal/)](https://github.com/ryo-ma/github-profile-trophy)
-
+![fathaGitBanner-01](https://user-images.githubusercontent.com/54309710/102713224-d20da700-42c6-11eb-97e5-984804974338.png)
