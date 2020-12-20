@@ -2,9 +2,9 @@
 <div align="center">
   <h1 ><b>Hi there! 👋 </b></h1>
   <p>I am designer and developer</p>
-</div>
-<img src="https://user-images.githubusercontent.com/54309710/102718127-cd58eb00-42e6-11eb-9640-9b357ed2ed63.png" alt="banner">
 
+<img src="https://user-images.githubusercontent.com/54309710/102718127-cd58eb00-42e6-11eb-9640-9b357ed2ed63.png" alt="banner">
+</div>
 <p align="center">I’m Farhiya Ali a Full Stack Developer and graphic designer. I’am a hardworking developer that loves to play with Frontend as well as Backend. I have experience in designing, implementation and optimisation of existing and newer systems.</p>
 
 ## Skills and Experience 
