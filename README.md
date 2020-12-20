@@ -5,8 +5,10 @@
 
 <img src="https://user-images.githubusercontent.com/54309710/102725300-0d839200-4316-11eb-82dc-89e1363ada57.png" alt="banner">
 </div>
-   <p align="center">
+<div align="center">
+   <p >
 I am a Full Stack developer, that loves to create and to be creative. I spend my days designing and developing web applications and through work experience and education I have developed a number of projects which have strengthened my skills. I can code in frontend and backend designing, developing, test and maintain existing and newer systems.</p>
+  </div>
 ## Skills and Experience 
 <table>
   <tbody>
