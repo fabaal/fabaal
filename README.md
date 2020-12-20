@@ -9,7 +9,7 @@
    <p >
 I am a Full Stack developer, that loves to create and to be creative. I spend my days designing and developing web applications and through work experience and education I have developed a number of projects which have strengthened my skills. I can code in frontend and backend designing, developing, test and maintain existing and newer systems.</p>
   </div>
-## Skills and Experience 
+<h2 align="center">Skills and Experience </h2>
 <table>
   <tbody>
      <tr>
